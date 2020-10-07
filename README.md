@@ -10,6 +10,8 @@ changes 2
 changes 3
 changes 4
 
+This is how you deploys
+
 ## Purpose
 
 Sample website with plenty of files for demos
