@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 This is how you deploy
 This is a simple web project, deployment is easy
+changes 2
 
 ## Purpose
 
