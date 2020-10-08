@@ -1,8 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-asdfasdf# TEAM
+# TEAM
 
+    Jon Hall  -- jon.hall@cleopian.co.uk
     <name> -- <role> -- <twitter>
 
 # THANKS
