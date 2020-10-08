@@ -17,3 +17,5 @@ This is how you deploys
 Sample website with plenty of files for demos
 adding some more text for examples
 
+### Copyright
+Git.Training
