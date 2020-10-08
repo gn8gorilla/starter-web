@@ -19,7 +19,7 @@ adding some more text for examples
 
 Please fork this repo and issue pull request for review
 
-Adding a line for rebasing example
+Adding a line for rebasing example, and another
 
 ### Copyright
 Git.Training
