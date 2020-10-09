@@ -21,5 +21,7 @@ Please fork this repo and issue pull request for review
 
 Adding a line for rebasing example, and another
 
+Updatin for an emergency fix after stash
+
 ### Copyright
 Git.Training. All rights reserved
